@@ -13,13 +13,13 @@ Las lecciones forman un curso básico de programación en R, el cual proporciona
 
 
 
-##Prerrequisitos
+## Prerrequisitos
 
 Para acceder a este curso debes tener instalado R, y preferiblemente RStudio, así como el paquete swirl.
 
 
 
-##Instalación de swirl
+## Instalación de swirl
 
 1) Ingresa los siguientes comandos en la consola de R:
 
