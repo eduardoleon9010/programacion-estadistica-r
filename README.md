@@ -1,4 +1,4 @@
-# programacion-estadistica-r
+# Programacion estadistica en R
 
 Lecciones interactivas de programación en R para uso con el paquete [swirl] (http://swirlstats.com). Forman parte del curso "Introducción a la programación estadística con R" de Coursera (https://www.coursera.org/learn/programacion-estadistica-r).
 
